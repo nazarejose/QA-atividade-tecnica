@@ -1,0 +1,22 @@
+Ciclo 01 => Test Account Creation
+
+Foi realizado um Ciclo com 3 Casos que foram executados de maneiras semelhantes:
+
+Passo a passo:
+1.Visitando a página de criação de conta do Instagram;
+2.Clicando no link "Cadastre-se";  
+3.Digitando no input o email ou número de telefone; 
+4.Digitando no input que pede o nome completo; 
+5.Digitando no input o username do usuário; 
+6.Digitando no input a senha proposta;
+7.Clicando no botão "Cadastre-se".
+
+Ciclo 02 => Login Test
+
+Foi realizado um Ciclo com 6 Casos que foram executados de maneiras semelhantes:
+
+Passo a passo:
+1.Visitando a página de login do Instagram;
+2.Digitando no input de Telefone, nome de usuário ou email;
+3.Digitando no input de senha;
+4.Clicando no botão "Entrar".

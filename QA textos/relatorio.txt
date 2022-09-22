@@ -1,0 +1,4 @@
+Os dois Ciclos aplicados no Instagram, Teste de login e Teste de criação de conta, tiveram resultados excelentes, pois não houve nenhuma falha na hora da execução.
+
+Ciclo 01: O teste de criação de conta não obteve nenhum erro na criação das contas e nem no barramento de credenciais inválidas.
+Ciclo 02: O teste de login obteve todos os resultados positivos, não tendo nenhuma falha no barramento de credenciais inválidas.

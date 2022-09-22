@@ -1,0 +1,40 @@
+Ciclo 01 => Create Test Account 
+
+Caso 01:
+-Era um teste criando a conta de maneira normal, onde as credenciais preencheriam todos os requisitos
+-Resultado: A conta conseguiu ser criada.
+
+Caso 02:
+-Neste caso tentei criar uma conta com um email inválido.
+-Resultado: O instagram emite uma mensagem dizendo que as credenciais do email são inválidas.
+
+Caso 03:
+-Neste caso tentei criar uma conta com um número de telefone inválido.
+-Resultado: O instagram emite uma mensagem dizendo que as credenciais do celular são inválidas.
+
+Ciclo 02 => Login Test
+ 
+Caso 01(Usuário com email inválido):
+-Foi feito o caso tentando logar no instagram com um email inválido/inexistente.
+-Resultado: Considerou o email inválido como um username.
+
+Caso 02(Número de celular inválido):
+-Foi feito o caso de login usando um telefone celular que não existe.
+-Resultado: Considerou o telefone errado como um usuario inexistente
+
+Caso 03(Usuário e senha corretos):
+-Foi feito o caso usando uma conta com as credenciais corretas e com usuário e senha supostamente corretos.
+-Resultado: O login foi feito com sucesso.
+
+Caso 04(Usuário e senha incorretos):
+-Foi feito o caso utilizando um usuário correto e uma senha incorreta.
+-Resultado: O login falhou e emitiu uma mensagem dizendo que o usuário não existia ou que a senha estava incorreta.
+
+Caso 05(Usuário *correto* e senha *incorreta*):
+-Este caso foi feito utilizando um usuário com credenciais corretas/existente e com uma senha incorreta
+-Resultado: O login falhou e emitiu uma mensagem dizendo que a senha estava incorreta.
+
+Caso 06(Usuário *incorreto* e senha *correta*):
+-Este caso foi utilizado um usuário incorreto e uma senha correta.
+-Resultado: O login falhou e emitiu uma mensagem dizendo que a senha estava incorreta, isso no caso de estar com um usuário incorreto, porém existente,
+já se ele não existisse, emitiria uma mensagem de usuário inexistente.

@@ -1,0 +1,6 @@
+Realizei 2 ciclos de testes na área de login e na área de cadastramento de usuário do instagram utilizando o Cypress.
+
+-No Ciclo 01 foi feito um teste na área de criação de uma nova conta no instagram, testando 3 Casos.
+
+-No Ciclo 02 foi feito um teste na área de login do instagram, testando 6 Casos.
+
